@@ -18,7 +18,7 @@ import { alpha } from '@material-ui/core/styles/colorManipulator';
 const useStyles =  makeStyles((theme) => ({
   root: {
     width: "630px",
-    height: "647px",
+
      borderRadius: "4px",
     // "&:hover": {
     //   borderColor: "#5ac568",

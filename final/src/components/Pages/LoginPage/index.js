@@ -13,8 +13,8 @@ const useStyle = makeStyles((theme) => ({
   paper: {
     padding: theme.spacing(2),
     backgroundColor: "#FAFCFF",
-    height:"1000px",
-    width:"1800px"
+    height:"100vh",
+    width:"100%"
   },
   notchedOutline: {
     borderWidth: "1px",

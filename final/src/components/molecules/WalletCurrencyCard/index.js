@@ -278,7 +278,7 @@ function modifyWishlist(){
       </Grid>
       <Grid item style={{paddingLeft:"10px"}}>
         <Grid container direction="column">
-          <Grid item><Typography variant="caption2">Market cap</Typography></Grid>
+          <Grid item><Typography style={{fontFamily:"Graphik"}}>Market cap</Typography></Grid>
           <Grid item><Typography variant="body1">{currencyFormatter(market_cap)}</Typography></Grid>
         </Grid>
       </Grid>
