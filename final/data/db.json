@@ -1,0 +1,187 @@
+{
+    "currency":[
+    {
+        "id": "ADA",
+        "name": "Cardano",
+        "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ada.svg",
+        "market_cap": 63814799360,
+        "price": 2.00397403,
+        "currency_code": "USD"
+    },
+    {
+        "id": "BNB",
+        "name": "Binance Coin",
+        "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/bnb.svg",
+        "market_cap": 61637804032,
+        "price": 404.8570752,
+        "currency_code": "USD"
+    },
+    
+    {
+        "id": "DOGE",
+        "name": "Dogecoin",
+        "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/doge.svg",
+        "market_cap": 39282044928,
+        "price": 0.30173076,
+        "currency_code": "USD"
+    },
+    {
+        "id": "DOT",
+        "name": "Polkadot",
+        "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/DOT.svg",
+        "market_cap": 24602568704,
+        "price": 24.1917026,
+        "currency_code": "USD"
+    },
+    {
+        "id": "ETH",
+        "name": "Ethereum",
+        "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/eth.svg",
+        "market_cap": 358048301056,
+        "price": 3074.60644275,
+        "currency_code": "USD"
+    },
+    {
+        "id": "LTC",
+        "name": "Litecoin",
+        "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/ltc.svg",
+        "market_cap": 11273614336,
+        "price": 170.50485687,
+        "currency_code": "USD"
+    },
+    {
+        "id": "SOL",
+        "name": "Solana",
+        "logo_url": "https://nomics-api.s3.us-east-2.amazonaws.com/static/images/currencies/SOL2.jpg",
+        "market_cap": 19158417408,
+        "price": 66.27509948,
+        "currency_code": "USD"
+    },
+    {
+        "id": "USDT",
+        "name": "Tether",
+        "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/usdt.svg",
+        "market_cap": 64431898624,
+        "price": 1.00336719,
+        "currency_code": "USD"
+    },
+    {
+        "id": "XMR",
+        "name": "Monero",
+        "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/xmr.svg",
+        "market_cap": 4603792896,
+        "price": 257.59193305,
+        "currency_code": "USD"
+    }
+   
+],
+"BTC":[
+    {
+        "id": "BTC",
+        "gains": 3.3381501713942656,
+        "currency_code": "USD",
+        "timelines": [
+            [
+                "2021-08-18T00:00:00Z",
+                "43620.02650262072"
+            ],
+            [
+                "2021-07-31T23:00:00Z",
+                "36359.01416437511"
+            ],
+            [
+                "2021-06-30T00:00:00Z",
+                "35873.83002872933"
+            ],
+            [
+                "2021-05-31T00:00:00Z",
+                "46523.2534503971"
+            ],
+            [
+                "2021-04-30T00:00:00Z",
+                "57172.678642545325"
+            ],
+            [
+                "2021-03-31T00:00:00Z",
+                "54901.90997013485"
+            ],
+            [
+                "2021-02-28T00:00:00Z",
+                "46348.930149997155"
+            ],
+            [
+                "2021-01-31T00:00:00Z",
+                "34733.26508857322"
+            ],
+            [
+                "2020-12-31T00:00:00Z",
+                "21975.592851425805"
+            ],
+            [
+                "2020-11-30T00:00:00Z",
+                "16660.468678569337"
+            ],
+            [
+                "2020-10-31T00:00:00Z",
+                "11896.48750047097"
+            ],
+            [
+                "2020-09-30T00:00:00Z",
+                "10657.28370061967"
+            ],
+            [
+                "2020-08-31T00:00:00Z",
+                "11651.208185090645"
+            ],
+            [
+                "2020-07-31T00:00:00Z",
+                "9600.381001419033"
+            ],
+            [
+                "2020-06-30T00:00:00Z",
+                "9480.832157298666"
+            ],
+            [
+                "2020-05-31T00:00:00Z",
+                "9256.00167517129"
+            ],
+            [
+                "2020-04-30T00:00:00Z",
+                "7221.732150676667"
+            ],
+            [
+                "2020-03-31T00:00:00Z",
+                "6887.298727646774"
+            ],
+            [
+                "2020-02-29T00:00:00Z",
+                "9641.952264200001"
+            ],
+            [
+                "2020-01-31T00:00:00Z",
+                "8369.222464349677"
+            ],
+            [
+                "2019-12-31T00:00:00Z",
+                "7256.404983111937"
+            ],
+            [
+                "2019-11-30T00:00:00Z",
+                "8346.017826315667"
+            ],
+            [
+                "2019-10-31T00:00:00Z",
+                "8387.770542776774"
+            ],
+            [
+                "2019-09-30T00:00:00Z",
+                "9793.195713979334"
+            ],
+            [
+                "2019-08-31T00:00:00Z",
+                "10054.9830640375"
+            ]
+        ]
+    }
+]
+}

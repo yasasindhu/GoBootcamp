@@ -1,0 +1,75 @@
+
+:root {
+    --font-family-primary-regular: 'Graphik';
+    --font-faily-primary-semibold: 'Graphik-SemiBold';
+    --font-family-primary-medium: 'Graphik-Medium';
+    --letter-spacing-high : '0.5px';
+    --letter_spacing_low : '0.25px';
+    --circle-border: 2
+
+}
+/* @font-face {
+    font-family:  Graphik;
+    src: local( Graphik-Regular),
+      url(./fonts/ Graphik-regular.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+  }
+  
+  @font-face {
+    font-family:  Graphik;
+    src: local( Graphik-Medium),
+      url(./fonts/ Graphik-medium.ttf) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+  
+  }
+  
+  @font-face {
+    font-family:  Graphik;
+    src: local( Graphik-Semibold),
+      url(./fonts/ Graphik-semibold.ttf) format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+  }
+   */
+   @font-face {
+    font-family: Graphik;
+    src: local(Graphik-Light),
+     
+      url(./fonts/GraphikLight.otf) format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+  }
+  @font-face {
+    font-family: Graphik;
+    src: local(Graphik-Regular),
+     
+      url(./fonts/GraphikRegular.otf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+  }
+  @font-face {
+    font-family: Graphik;
+    src: local(Graphik-Medium),
+     
+      url(./fonts/GraphikMedium.otf) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+  }
+  @font-face {
+    font-family: Graphik;
+    src: local(Graphik-SemiBold),
+     
+      url(./fonts/GraphikSemibold.otf) format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+  }
+  

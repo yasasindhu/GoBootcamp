@@ -1,0 +1,32 @@
+/* ::-webkit-scrollbar {
+    width: 6px;
+  }
+   */
+ 
+   /* width */
+::-webkit-scrollbar {
+    width: 7px;
+    margin-right:100px,
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background:#B4B4CF;
+    border-radius: 10px;
+  } 
+ 
+  /* ::-webkit-scrollbar-thumb {
+    background:#B4B4CF; 
+    border-radius: 10px;
+    width: 0px;
+    height: 145.65px;
+    scrollbar-color: rebeccapurple green;
+         scrollbar-width: thin;
+  }
+  
+ 
+  ::-webkit-scrollbar-thumb:hover {
+    background:#B4B4CF; 
+    scrollbar-color: rebeccapurple green;
+    scrollbar-width: thin;
+  } */
