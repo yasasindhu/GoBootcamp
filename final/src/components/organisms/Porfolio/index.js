@@ -200,7 +200,7 @@ export default function Portfolio(props) {
           </Grid>
           <Grid item xs >
             <Divider className={classes.divider} />
-            <div className={classes.walletAlignment} style={{display: 'flex', justifyContent: 'space-between'}}>
+            <div className={classes.walletAlignment} style={{display: 'flex', justifyContent: 'space-between',paddingLeft:'20px',paddingRight:'24px'}}>
               <Typography variant='h3' style={{paddingBottom: '4%', color: '#7D7D89' }}>Total Balance</Typography>
               <Typography varinat='h4' className={classes.amountAlignment}>
                 <NumberFormat value={parseFloat(portfolioBalance).toFixed(2)} displayType={'text'} thousandSeparator={true} prefix={'$'} />

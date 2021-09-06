@@ -65,7 +65,15 @@ const useStyles = makeStyles((theme) => ({
     },
       negativePercentage:{
           color:'#B71A33',
+          paddingRight:'24px',
           display:'flex',
+          marginLeft:'24px',
+          fontFamily: 'Graphik',
+          fontStyle: 'normal',
+          fontWeight: 'normal',
+          fontSize: '14px',
+          lineHeight: '16px',
+          letterSpacing: '0.005em',
       },
       amount:{
         display:'flex',

@@ -70,7 +70,7 @@ const Footer = (  )  => {
            <Typography className={classes.FooterItem}> Dashboard</Typography>
            </Grid>
            <Grid item >
-           <Typography className={classes.FooterItem} > carrers</Typography>
+           <Typography className={classes.FooterItem} > Careers</Typography>
            </Grid>
            <Grid item >
            <Typography className={classes.FooterItem}> Legal & Privacy</Typography>

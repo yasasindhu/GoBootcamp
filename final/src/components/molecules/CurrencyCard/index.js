@@ -387,7 +387,7 @@ console.log("id is",card.id);
                                
                                
 							              <HighchartsReact className={classes.graphAlignmnent}
-                                 containerProps={{ style: { height: "99.38px" ,width:'110%',paddingLeft:'90px' } }} 
+                                 containerProps={{ style: { height: "99.38px" ,width:'90%',paddingLeft:'90px' } }} 
                                  highcharts={Highcharts}
                                   options={options} />
                             </Grid>
